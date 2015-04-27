@@ -1,0 +1,12 @@
+# Site settings
+title: The Viewport - Examples
+email: theviewport@union.co
+description: > 
+  Our description will appear here
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "http://examples.theviewport.tv" # the base hostname & protocol for your site
+twitter_username: unionco
+github_username:  unionco
+
+# Build settings
+markdown: kramdown
